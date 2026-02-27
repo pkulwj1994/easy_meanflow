@@ -137,7 +137,7 @@ docs/_build/
 
 logs/
 out_metrics/
-image_experiments/
+image_experiment/
 
 data/
 save/
